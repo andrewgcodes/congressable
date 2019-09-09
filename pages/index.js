@@ -80,22 +80,10 @@ export default () => (
         mt={[4, 5]}
       >
         <Heading.h2 fontSize={4} mb={2}>
-          Why should I call? 
+          Troubleshooting
         </Heading.h2>
         <Text color="steel" fontSize={2}>
-          Calling your House Representative and State Senators is one of the
-          most effective ways to make your voice heard. Emails and letters are
-          often batched, and Tweets ignored, but speaking to a staffer on the
-          phone makes sure a real conversation happens with your
-          representatives. Check out Emily Ellsworth’s great{' '}
-          <A href="http://theslot.jezebel.com/how-to-effectively-lobby-your-congressperson-1788958124">
-            article
-          </A>
-          {' and '}
-          <A href="http://www.attn.com/stories/12768/former-congressional-staffer-explains-how-to-make-congressman-listen">
-            series of Tweets
-          </A>{' '}
-          to learn more.
+          If the search bar just keeps spinning and nothing loads, make sure you inputted your address like it's shown in the example. You don't need to enter a zipcode, city, or state. Also, if you live in a newly built place, the map API may not have had time to update to include your location yet. Until then, try entering the address of a place near you. 
         </Text>
       </Card>
     </Container>

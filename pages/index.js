@@ -69,7 +69,7 @@ export default () => (
           <A href="http://www.attn.com/stories/12768/former-congressional-staffer-explains-how-to-make-congressman-listen">
             series of Tweets
           </A>{' '}
-          to read more.
+          to learn more.
         </Text>
       </Card>
     </Container>

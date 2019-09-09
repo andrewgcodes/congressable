@@ -30,7 +30,7 @@ export default () => (
       align="center"
     >
       <Heading.h1 color="white" fontSize={6} mt={0}>
-        Let’s <Mark>take back our</Mark>  Congress.
+        Let’s <Mark>take back <u>our</u></Mark>  Congress.
       </Heading.h1>
       <Container width={1} maxWidth={36}>
         <Heading.h2 color="white" fontSize={[3, 4]} my={3} regular>

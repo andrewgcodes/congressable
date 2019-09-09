@@ -12,15 +12,15 @@ export default () => (
           About
         </Heading.h1>
         <Heading.h2 mt={2} mb={[3, 4]} regular>
-          Our voices need to be heard in Congress.
+          Our voices and opinions <strong>must</strong> be heard in Congress.
         </Heading.h2>
-        <Link.btn href="/" inverted children="🏡 Go home" />
+        <Link.btn href="/" inverted children="🔍 Back to search" />
       </Container>
     </Box>
     <Container maxWidth={40} py={4} px={3}>
       <Text fontSize={3} my={3}>
         Using data from the Center for Responsive Politics and
-        theunitedstates.io. Started at CodeDay DC 2018 by Lachlan Campbell. 100% open source.
+        theunitedstates.io. 100% open source.
         Built with React, Next.js, styled-components, and the Hack Club Design
         System.
       </Text>

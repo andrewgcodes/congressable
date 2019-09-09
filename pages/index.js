@@ -22,7 +22,7 @@ const Mark = styled(Text.withComponent('mark'))`
 export default () => (
   <ThemeProvider>
     <BackgroundImage
-      src="https://images.unsplash.com/photo-1499200493734-6ba25a83f77c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80"
+      src="https://images.unsplash.com/photo-1512089560352-6164fbf29083?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80"
       aria-label="Front view of capitol building"
       bg="primary"
       py={[5, 6]}

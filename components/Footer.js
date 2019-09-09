@@ -6,7 +6,7 @@ const Footer = () => (
   <Container width={1} maxWidth={36} px={3} pb={5}>
     <Divider />
     <Text color="muted" fontSize={2} align="center" py={3}>
-      A project by <A href="https://andrewgao.tech">Andrew Gao</A>
+      A project by <A href="https://andrewgao.tech">Andrew Gao </A>
   and <A href="https://lachlanjc.me">Lachlan Campbell</A>
    {' — '}
       <Link href="/about">read more</Link>

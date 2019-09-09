@@ -20,7 +20,7 @@ export default () => (
     <Container maxWidth={40} py={4} px={3}>
       <Text fontSize={3} my={3}>
         Using data from the Center for Responsive Politics and
-        theunitedstates.io. Started at CodeDay DC 2018. Totally open source.
+        theunitedstates.io. Started at CodeDay DC 2018 by Lachlan Campbell. 100% open source.
         Built with React, Next.js, styled-components, and the Hack Club Design
         System.
       </Text>

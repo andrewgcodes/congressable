@@ -86,6 +86,20 @@ export default () => (
           If the search bar just keeps spinning and nothing loads, make sure you inputted your address like it's shown in the example. You don't need to enter a zipcode, city, or state. Also, if you live in a newly built place, the map API may not have had time to update to include your location yet. Until then, try entering the address of a place near you. 
         </Text>
       </Card>
+  <Card
+        p={[3, 4]}
+        mx={[-3, -4]}
+        bg="#fffae5"
+        boxShadowSize="md"
+        mt={[4, 5]}
+      >
+        <Heading.h2 fontSize={4} mb={2}>
+          Thank you for being an informed and active citizen!
+        </Heading.h2>
+        <Text color="steel" fontSize={2}>
+          Make sure to share this site with friends and family so they too can learn how to contact their Congressmembers and make a difference.
+        </Text>
+      </Card>
     </Container>
     <Footer />
   </ThemeProvider>

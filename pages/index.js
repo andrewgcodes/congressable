@@ -34,10 +34,10 @@ export default () => (
       </Heading.h1>
       <Container width={1} maxWidth={36}>
         <Heading.h2 color="white" fontSize={[3, 4]} my={3} regular>
-          Our members of Congress are supposed to work for us, the people. But right now, they’re only
-          listening to their big donors. Use this tool to find out how to call your Congress members and see their donors.
+          Our Congressmembers are supposed to work for us, the people. But right now, they’re only
+          listening to their big donors. Use this tool to find out how to contact your Congressmembers and also view their major donors.
           <br />
-          <strong>Make your voice heard today!</strong>
+          <strong>It only takes a minute to make your voice heard today!</strong>
         </Heading.h2>
       </Container>
     </BackgroundImage>
